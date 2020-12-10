@@ -1,6 +1,6 @@
 # Custom Hooks
 
-Repositorio con custom hooks:
+Repository with custom hooks:
 * useCounter
 * useFetch
 * useForm
